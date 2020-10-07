@@ -8,8 +8,9 @@ body{
   
     width: 200px;
     height: 200px;
-    background:linear-gradient( green 50%, blue 50%);
-    /*transform: rotate(50deg) ;
+    background-image: url('a.svg');
+    /*linear-gradient( green 50%, blue 50%);
+    transform: rotate(50deg) ;
     transition-property: background-color;
    transition-duration: 1s;
    transition-timing-function: ease-in;
